@@ -1,3 +1,8 @@
+/*
+	
+	homebrew.js for spiceblue-showcase. Depends jQuery.
+
+*/
 $(document).ready(function() {
 
 	var container = $('#rh-container'),
